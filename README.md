@@ -1,3 +1,4 @@
+﻿#MY GO README
 Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
 I am the cofounder of [summer.ai](http://bit.ly/summerai), a Machine Intelligence Strategy Consulting firm.
